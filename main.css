@@ -68,3 +68,8 @@ table{
     border-radius: 7px;
     border-color: aliceblue;
 }
+
+footer {
+    color: #d6d7de;
+    padding: 16px 0;
+}
